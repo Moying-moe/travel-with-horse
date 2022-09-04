@@ -1,0 +1,22 @@
+{
+  "modinfo.travelwithhorse.name": "Travel with Horse",
+  "itemGroup.travelwithhorse.itemgroup": "Travel with Horse",
+  "item.travelwithhorse.ender_lead": "Ender Lead",
+  "item.travelwithhorse.horse_whistle": "Horse Whistle",
+  "item.travelwithhorse.ender_lead.tooltip": "Right-click on a tamed horse to pack this horse into Ender Horse Stable.",
+  "item.travelwithhorse.ender_lead.use.fail": "Please use on a tamed horse.",
+  "item.travelwithhorse.ender_lead.use.notown": "This horse is not belong to you!",
+  "item.travelwithhorse.ender_lead.use.alreadyhas": "You already has a horse in your Stable. You can clear that horse by command /horse-stable clear",
+  "item.travelwithhorse.horse_whistle.fail": "Your Ender Horse Stable has no horse in it! Please use Ender Lead first.",
+  "commands.travelwithhorse.horsestable.clear.success": "You have cleared your Ender Horse Stable.",
+  "commands.travelwithhorse.horsestable.info.fail": "Your Ender Horse Stable has no horse in it! Please use Ender Lead first.",
+  "commands.travelwithhorse.horsestable.info.title": "Horse Info:",
+  "commands.travelwithhorse.horsestable.info.name": "Name: ",
+  "commands.travelwithhorse.horsestable.info.max_hp": "Max HP: ",
+  "commands.travelwithhorse.horsestable.info.jump_strength": "Jump Strength: ",
+  "commands.travelwithhorse.horsestable.info.speed": "Speed: ",
+  "commands.travelwithhorse.horsestable.info.armor": "Armor: ",
+  "commands.travelwithhorse.horsestable.info.saddle": "Saddled: ",
+  "commands.travelwithhorse.horsestable.info.saddle.true": "yes",
+  "commands.travelwithhorse.horsestable.info.saddle.false": "no"
+}

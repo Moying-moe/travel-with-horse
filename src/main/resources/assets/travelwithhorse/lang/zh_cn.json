@@ -1,0 +1,22 @@
+{
+  "modinfo.travelwithhorse.name": "与马共游",
+  "itemGroup.travelwithhorse.itemgroup": "与马共游",
+  "item.travelwithhorse.ender_lead": "末影栓绳",
+  "item.travelwithhorse.horse_whistle": "马哨",
+  "item.travelwithhorse.ender_lead.tooltip": "对已驯服的马右击可以将其收入末影马厩中",
+  "item.travelwithhorse.ender_lead.use.fail": "请对已驯服的马使用",
+  "item.travelwithhorse.ender_lead.use.notown": "这不是你驯服的马哦",
+  "item.travelwithhorse.ender_lead.use.alreadyhas": "你的末影马厩中已经有一只马了，你可以使用/horse-stable clear命令来清除之前的那匹马",
+  "item.travelwithhorse.horse_whistle.fail": "你的末影马厩中还没有马呢，请先用末影栓绳收入一只马",
+  "commands.travelwithhorse.horsestable.clear.success": "你已清空你的末影马厩",
+  "commands.travelwithhorse.horsestable.info.fail": "你的末影马厩中还没有马呢，请先用末影栓绳收入一只马",
+  "commands.travelwithhorse.horsestable.info.title": "信息:",
+  "commands.travelwithhorse.horsestable.info.name": "名称: ",
+  "commands.travelwithhorse.horsestable.info.max_hp": "最大HP: ",
+  "commands.travelwithhorse.horsestable.info.jump_strength": "跳跃力: ",
+  "commands.travelwithhorse.horsestable.info.speed": "速度: ",
+  "commands.travelwithhorse.horsestable.info.armor": "马铠: ",
+  "commands.travelwithhorse.horsestable.info.saddle": "马鞍: ",
+  "commands.travelwithhorse.horsestable.info.saddle.true": "有",
+  "commands.travelwithhorse.horsestable.info.saddle.false": "无"
+}
