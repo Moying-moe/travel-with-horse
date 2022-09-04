@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "travelwithhorse",
+  "version": "${version}",
+  "name": "与马共游 Travel With Horse",
+  "description": "允许你将自己的爱马收入随身马厩，并随时召唤它",
+  "authors": [
+    "moying"
+  ],
+  "contact": {
+    "repo": "git@github.com:Moying-moe/travel-with-horse.git"
+  },
+  "license": "MIT",
+  "icon": "assets/travelwithhorse/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "top.moyingmoe.travelwithhorse.client.TravelWithHorseClient"
+    ],
+    "main": [
+      "top.moyingmoe.travelwithhorse.TravelWithHorse"
+    ]
+  },
+  "mixins": [
+    "travelwithhorse.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric": "*",
+    "minecraft": "1.19.2"
+  }
+}
